@@ -3,7 +3,24 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - GM
+  - Pit
+  - Wall
+  - Target
+  - Module
+  - NoBulletCollision
+  - explosion
+  - Bullet
+  - Guide
+  - SolutionBlocks
+  - CodeBlocks
+  - SawStatic
+  - MoveSaw
+  - Door2
+  - Door1
+  - DialogueBox
   layers:
   - Default
   - TransparentFX
@@ -13,10 +30,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - wall
+  - saw
   - 
   - 
   - 
@@ -40,4 +57,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 284938435
+    locked: 0
+  - name: Ground
+    uniqueID: 4260773443
+    locked: 0
+  - name: Foreground
+    uniqueID: 2746613599
+    locked: 0
+  - name: Player
+    uniqueID: 1677318341
     locked: 0
