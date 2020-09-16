@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a>
-    <img src="Figures/title_anim.gif" alt="Title" width="80%" height="80%">
+    <img src="Figures/title_anim.gif" alt="Title" width="90%" height="90%">
   </a>
 
   <h3 align="center">Engram</h3>
@@ -17,7 +17,7 @@
   <p align="center">
     Educational Programming RPG
     <br />
-    <a href="https://github.com/akozlev/engram">View Demo</a>
+    <a href="https://youtu.be/pl1nwN92yEk">View Demo</a>
     ·
     <a href="https://github.com/akozlev/engram/issues">Report Bug</a>
     ·
@@ -30,15 +30,24 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+* [Achievements](#achievements)
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
   * [Sudo Compiler](#sudo-compiler)
   * [Art](#art)
+  * [Built With](#built-with)
 * [Gameplay Demo](#gameplay-demo)
 * [Team](#team)
-* [References](#references)
 
 
+<!-- Achievements -->
+## Achievements
+
+### Finalist at the [12th European Conference On Games Based Learning (ECGBL 2018)](https://www.academic-conferences.org/conferences/ecgbl/ecgbl-future-and-past/) 
+**Hosted by:** SKEMA Business School, 
+<br />
+Sophia Antipolis, 
+<br />
+France
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -60,19 +69,11 @@ Engram is a puzzle role-play game (RPG) focused on teaching programming logic to
 
 <br />
 
-Research shows that this was a more intuitive, simpler way of introducing programming to our target audience. The game concept is based on the idea that programming is used to solve problems; one identifies a problem or requirement in a system and then writes code to add or alter functionality in that system. We are not just teaching programming logic but how it can be applied to different, more complex problems. To achieve an interesting and rewarding overall learning experience different to traditional coding games, the input of the correct code solution can result in alteration of the game world, such as opening a door, stopping a saw, or even reprogramming an enemy turret. It can also allow the player/robot to acquire new abilities. The player unlocks abilities through some of these puzzles to engage in platforming and combat. Being able to see the outcome of their work will create an engaging learning environment for users. We chose to implement this element in order to provide not only an educational game but an entertaining one. The progression of both the player and the game’s AI robot are intrinsically linked. As the player learns programming, the character acquires new abilities to progress through this new environment they must both discover. The relationship that is built up between the player and the character encourages further progression and therefore development of new knowledge. Better Bot, the robot’s companion and the player’s help tool, is a way of setting the scene as well as introducing basic controls and mechanics. Better Bot also helps the confused protagonist through the puzzles with hints and suggestions throughout the game. We are a group of friends studying Computer Science in Brighton University in the UK.
-
-<br />
-
-### Built With
-
-* [Unity](https://unity.com/)
-* [Photoshop](https://www.photoshop.com)
-* [c#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+Research shows that this was a more intuitive, simpler way of introducing programming to our target audience. The game concept is based on the idea that programming is used to solve problems; one identifies a problem or requirement in a system and then writes code to add or alter functionality in that system. We are not just teaching programming logic but how it can be applied to different, more complex problems. To achieve an interesting and rewarding overall learning experience different to traditional coding games, the input of the correct code solution can result in alteration of the game world, such as opening a door, stopping a saw, or even reprogramming an enemy turret. It can also allow the player/robot to acquire new abilities. The progression of both the player and the game’s AI robot are intrinsically linked. As the player learns programming, the character acquires new abilities to progress through this new environment they must both discover. Better Bot, the robot’s companion and the player’s help tool, is a way of setting the scene as well as introducing basic controls and mechanics. Better Bot also helps the confused protagonist through the puzzles with hints and suggestions throughout the game.
 
 ### Sudo Compiler
 
-The puzzle system is based on a mock-compiler which assess whether the user inputted the correct solution. We started off creating a canvas and a panel within it to allow the compiler to be activated using script when triggered by the box collider. then we created cell sockets and movable code pieces, which allowed us to have the visual aspect of our compiler complete, all that was left was to add a “run” button which is an attribute of the compiler class and test the player’s inserted code against our own predefined functions
+The puzzle system is based on a mock-compiler which assess whether the user inputted the correct solution. We started off creating a canvas and a panel within it to allow the compiler to be activated using script when triggered by the box collider. then we created cell sockets and movable code pieces, which allowed us to have the visual aspect of our compiler complete, all that was left was to add a “run” button which is an attribute of the compiler class and test the player’s inserted code against our own predefined functions.
 
 <p align="center">
   <img src="Figures/Compiler.gif" alt="Logo" width="45%" height="45%">
@@ -81,21 +82,27 @@ The puzzle system is based on a mock-compiler which assess whether the user inpu
 
 ### Art
 
+The sprite animation/sprite sheets were all created within photoshop.
+
+<br />
+
 <p align="center">
   <img src="Figures/walk_forward.gif" alt="Logo" width="20%" height="20%">
   <img src="Figures/walk_back.gif" alt="Logo" width="20%" height="20%">
   <img src="Figures/walk_right.gif" alt="Logo" width="20%" height="20%">
-</p>
-
-<p align="center">
+    <br />
   <img src="Figures/sprite_sheet.png" alt="Logo" width="30%" height="30%">
   
-  <br />
   <br />
   
   <img src="Figures/sprites_objects.png" alt="Logo" width="70%" height="70%">
 </p>
 
+### Built With
+
+* [Unity](https://unity.com/)
+* [Photoshop](https://www.photoshop.com)
+* [c#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 <!--Gameplay Demo-->
 ## Gameplay Demo
@@ -118,16 +125,10 @@ The puzzle system is based on a mock-compiler which assess whether the user inpu
 ·
 [michaelcruz1998@hotmail.com](mailto:michaelcruz1998@hotmail.com)
 
-<!-- ACKNOWLEDGEMENTS -->
-## References
-Blockly - https://developers.google.com/blockly/
-<br />
-Scratch - https://scratch.mit.edu/
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/michaelcruzcervera/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/akozlev/engram/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/michaelcruzcervera/Best-README-Template.svg?style=flat-square
 [forks-url]: https://github.com/akozlev/engram/network/members
 [forks-shield]: https://img.shields.io/github/forks/michaelcruzcervera/Best-README-Template.svg?style=flat-square
 [forks-url]: https://github.com/akozlev/engram/network/members
