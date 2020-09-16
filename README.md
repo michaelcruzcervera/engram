@@ -63,8 +63,8 @@ Engram is a puzzle role-play game (RPG) focused on teaching programming logic to
 <br />
 
 <p align="center">
-  <img src="Figures/Platforming.gif" alt="Logo" width="45%" height="45%">
-  <img src="Figures/Dialogue.gif" alt="Logo" width="45%" height="45%">
+  <img src="Figures/Platforming.gif" alt="Platforming" width="45%" height="45%">
+  <img src="Figures/Dialogue.gif" alt="Dialogue with Better Bot" width="45%" height="45%">
 </p>
 
 <br />
@@ -76,8 +76,8 @@ Research shows that this was a more intuitive, simpler way of introducing progra
 The puzzle system is based on a mock-compiler which assess whether the user inputted the correct solution. We started off creating a canvas and a panel within it to allow the compiler to be activated using script when triggered by the box collider. then we created cell sockets and movable code pieces, which allowed us to have the visual aspect of our compiler complete, all that was left was to add a “run” button which is an attribute of the compiler class and test the player’s inserted code against our own predefined functions.
 
 <p align="center">
-  <img src="Figures/Compiler.gif" alt="Logo" width="45%" height="45%">
-  <img src="Figures/Compiler_OpenDoor.gif" alt="Logo" width="45%" height="45%">
+  <img src="Figures/Compiler.gif" alt="Using Compiler to gain the Dash Ability" width="45%" height="45%">
+  <img src="Figures/Compiler_OpenDoor.gif" alt="Using Compiler to open a door" width="45%" height="45%">
 </p>
 
 ### Art
@@ -87,15 +87,15 @@ The sprite animation/sprite sheets were all created within photoshop.
 <br />
 
 <p align="center">
-  <img src="Figures/walk_forward.gif" alt="Logo" width="20%" height="20%">
-  <img src="Figures/walk_back.gif" alt="Logo" width="20%" height="20%">
-  <img src="Figures/walk_right.gif" alt="Logo" width="20%" height="20%">
+  <img src="Figures/walk_forward.gif" alt="Player Down Animation" width="20%" height="20%">
+  <img src="Figures/walk_back.gif" alt="Player Up Animation" width="20%" height="20%">
+  <img src="Figures/walk_right.gif" alt="Player Right Animation" width="20%" height="20%">
     <br />
-  <img src="Figures/sprite_sheet.png" alt="Logo" width="30%" height="30%">
+  <img src="Figures/sprite_sheet.png" alt="Environment Sprite Sheet" width="30%" height="30%">
   
   <br />
   
-  <img src="Figures/sprites_objects.png" alt="Logo" width="70%" height="70%">
+  <img src="Figures/sprites_objects.png" alt="Object Sprites" width="70%" height="70%">
 </p>
 
 ### Built With
