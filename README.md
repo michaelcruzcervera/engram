@@ -127,15 +127,15 @@ The sprite animation/sprite sheets were all created within photoshop.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-url]: https://github.com/akozlev/engram/graphs/contributors
+[contributors-url]: https://github.com/michaelcruzcervera/engram/graphs/contributors
 [contributors-shield]: https://img.shields.io/github/contributors/michaelcruzcervera/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/akozlev/engram/network/members
+[forks-url]: https://github.com/michaelcruzcervera/engram/network/members
 [forks-shield]: https://img.shields.io/github/forks/michaelcruzcervera/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/akozlev/engram/network/members
+[forks-url]: https://github.com/michaelcruzcervera/engram/network/members
 [stars-shield]: https://img.shields.io/github/stars/michaelcruzcervera/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/akozlev/engram/stargazers
+[stars-url]: https://github.com/michaelcruzcervera/engram/stargazers
 [issues-shield]: https://img.shields.io/github/issues/michaelcruzcervera/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/akozlev/engram/issues
+[issues-url]: https://github.com/michaelcruzcervera/engram/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url-m]: https://www.linkedin.com/in/michael-cruz-cervera/
 [linkedin-url-a]: https://www.linkedin.com/in/angelkozlev/
