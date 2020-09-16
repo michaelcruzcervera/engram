@@ -32,7 +32,7 @@
 
 * [Achievements](#achievements)
 * [About the Project](#about-the-project)
-  * [Sudo Compiler](#sudo-compiler)
+  * [Pseudo Compiler](#pseudo-compiler)
   * [Art](#art)
   * [Built With](#built-with)
 * [Gameplay Demo](#gameplay-demo)
@@ -71,7 +71,7 @@ Engram is a puzzle role-play game (RPG) focused on teaching programming logic to
 
 Research shows that this was a more intuitive, simpler way of introducing programming to our target audience. The game concept is based on the idea that programming is used to solve problems; one identifies a problem or requirement in a system and then writes code to add or alter functionality in that system. We are not just teaching programming logic but how it can be applied to different, more complex problems. To achieve an interesting and rewarding overall learning experience different to traditional coding games, the input of the correct code solution can result in alteration of the game world, such as opening a door, stopping a saw, or even reprogramming an enemy turret. It can also allow the player/robot to acquire new abilities. The progression of both the player and the game’s AI robot are intrinsically linked. As the player learns programming, the character acquires new abilities to progress through this new environment they must both discover. Better Bot, the robot’s companion and the player’s help tool, is a way of setting the scene as well as introducing basic controls and mechanics. Better Bot also helps the confused protagonist through the puzzles with hints and suggestions throughout the game.
 
-### Sudo Compiler
+### Pseudo Compiler
 
 The puzzle system is based on a mock-compiler which assess whether the user inputted the correct solution. We started off creating a canvas and a panel within it to allow the compiler to be activated using script when triggered by the box collider. then we created cell sockets and movable code pieces, which allowed us to have the visual aspect of our compiler complete, all that was left was to add a “run” button which is an attribute of the compiler class and test the player’s inserted code against our own predefined functions.
 
